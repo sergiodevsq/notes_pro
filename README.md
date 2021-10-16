@@ -1,1 +1,1 @@
-Notas comentadas para referência em linguagens e tecnologias.
+Notas comentadas para referência em linguagens e tecnologias para consultas.
