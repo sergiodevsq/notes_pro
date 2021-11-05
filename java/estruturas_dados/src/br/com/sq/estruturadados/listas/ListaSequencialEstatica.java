@@ -4,7 +4,6 @@ package br.com.sq.estruturadados.listas;
 
 import java.util.Arrays;
 
-import br.com.sq.estrutura_dados.models.Ponto;
 import br.com.sq.estruturadados.tads.Aluno;
 
 public class ListaSequencialEstatica {
